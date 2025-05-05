@@ -1,0 +1,301 @@
+Date,Region,ProductLine,Sales,CustomerRating
+2024-10-01,North America,Apparel,34480.33,3.7
+2024-03-01,Europe,Apparel,348213.01,1.6
+2024-02-01,South America,Footwear,110724.18,1.9
+2024-02-01,Europe,Accessories,159421.91,4.9
+2024-11-01,South America,Footwear,12897.48,2.1
+2024-04-01,North America,Apparel,294084.63,3.5
+2024-06-01,North America,Apparel,417799.67,3.7
+2024-08-01,Asia,Apparel,126591.33,3.7
+2024-04-01,North America,Accessories,348767.04,1.9
+2024-08-01,South America,Accessories,305425.83,1.5
+2024-08-01,South America,Footwear,92786.95,1.4
+2024-06-01,Europe,Apparel,174272.61,1.5
+2024-10-01,North America,Accessories,55421.15,2.7
+2024-01-01,North America,Apparel,155573.21,1.0
+2024-05-01,North America,Footwear,71407.05,4.3
+2024-03-01,North America,Footwear,233852.16,1.6
+2024-09-01,North America,Footwear,281828.04,1.3
+2024-07-01,Europe,Apparel,236376.86,3.1
+2024-07-01,Asia,Apparel,98425.02,3.1
+2024-05-01,Asia,Accessories,234290.63,1.1
+2024-08-01,Europe,Footwear,353337.9,1.7
+2024-08-01,Asia,Apparel,325429.36,2.4
+2024-04-01,North America,Footwear,455807.12,4.8
+2024-02-01,South America,Footwear,80330.86,2.1
+2024-05-01,North America,Accessories,124770.85,4.4
+2024-10-01,North America,Accessories,422199.45,1.5
+2024-10-01,Asia,Apparel,483849.07,4.1
+2024-07-01,North America,Apparel,440105.97,1.8
+2024-11-01,South America,Apparel,125460.81,3.7
+2024-05-01,South America,Accessories,249242.4,1.2
+2024-07-01,Europe,Accessories,395138.35,4.3
+2024-08-01,South America,Footwear,236887.56,4.1
+2024-11-01,South America,Apparel,451487.72,4.8
+2024-12-01,South America,Footwear,489808.45,3.3
+2024-11-01,Europe,Accessories,440572.43,2.9
+2024-12-01,North America,Footwear,87019.78,1.6
+2024-04-01,South America,Footwear,471728.02,1.7
+2024-10-01,South America,Accessories,453643.58,3.4
+2024-03-01,South America,Accessories,137300.08,1.9
+2024-03-01,North America,Footwear,11011.69,2.4
+2024-03-01,Asia,Accessories,240085.32,3.4
+2024-06-01,North America,Accessories,104934.4,3.4
+2024-02-01,Asia,Apparel,387591.52,4.2
+2024-05-01,Europe,Apparel,438496.98,1.3
+2024-07-01,North America,Footwear,251563.8,3.7
+2024-07-01,North America,Accessories,38449.69,2.5
+2024-07-01,Europe,Accessories,375755.11,1.4
+2024-10-01,North America,Apparel,54559.14,4.2
+2024-06-01,South America,Accessories,153248.35,4.3
+2024-04-01,North America,Footwear,282158.86,1.4
+2024-04-01,Asia,Footwear,471367.91,1.5
+2024-09-01,North America,Apparel,123267.63,4.0
+2024-03-01,North America,Apparel,36716.81,2.4
+2024-02-01,Europe,Accessories,369274.62,2.5
+2024-07-01,North America,Apparel,234984.98,2.7
+2024-11-01,Europe,Footwear,42062.31,3.7
+2024-02-01,North America,Footwear,224693.78,1.6
+2024-05-01,Europe,Accessories,184231.38,1.5
+2024-02-01,North America,Footwear,293055.94,3.7
+2024-05-01,South America,Accessories,63215.26,2.5
+2024-02-01,South America,Accessories,284752.83,1.9
+2024-12-01,Europe,Apparel,316205.17,3.3
+2024-05-01,Europe,Apparel,240623.39,4.2
+2024-09-01,Asia,Footwear,281524.15,3.7
+2024-01-01,Europe,Apparel,380030.72,2.7
+2024-01-01,Asia,Apparel,194314.67,1.4
+2024-08-01,South America,Apparel,440542.03,2.1
+2024-10-01,Asia,Apparel,200127.42,4.5
+2024-06-01,North America,Apparel,466288.44,1.1
+2024-01-01,South America,Apparel,13067.82,3.1
+2024-05-01,South America,Apparel,107613.43,2.3
+2024-02-01,Asia,Accessories,427626.71,3.9
+2024-10-01,North America,Apparel,219814.47,4.2
+2024-09-01,Europe,Apparel,367678.87,1.7
+2024-12-01,North America,Footwear,248903.33,4.0
+2024-12-01,Europe,Apparel,382682.35,1.0
+2024-09-01,South America,Accessories,436859.46,2.0
+2024-06-01,Asia,Footwear,36547.18,4.2
+2024-09-01,South America,Accessories,161569.77,1.2
+2024-02-01,North America,Accessories,420417.41,1.8
+2024-03-01,Europe,Footwear,368305.45,1.7
+2024-08-01,North America,Accessories,93827.52,3.9
+2024-03-01,North America,Accessories,27089.51,3.8
+2024-11-01,Asia,Accessories,107439.32,1.9
+2024-10-01,North America,Apparel,86747.03,3.0
+2024-06-01,North America,Apparel,11568.06,4.5
+2024-10-01,North America,Accessories,303953.37,2.4
+2024-09-01,North America,Accessories,444789.25,4.2
+2024-09-01,Asia,Apparel,172025.24,4.8
+2024-09-01,Asia,Apparel,429636.28,2.7
+2024-01-01,North America,Footwear,361624.26,1.7
+2024-10-01,Europe,Accessories,37357.78,3.4
+2024-06-01,South America,Footwear,367706.78,3.3
+2024-04-01,Europe,Apparel,285996.4,1.9
+2024-09-01,Europe,Accessories,484456.79,2.5
+2024-07-01,South America,Footwear,36085.41,4.3
+2024-04-01,Europe,Footwear,288928.52,2.9
+2024-07-01,South America,Accessories,274869.93,4.9
+2024-03-01,Asia,Apparel,448073.36,4.7
+2024-03-01,Europe,Accessories,258426.89,1.8
+2024-10-01,South America,Apparel,495028.52,1.4
+2024-12-01,South America,Accessories,273391.26,3.8
+2024-08-01,Europe,Accessories,360276.55,1.8
+2024-07-01,South America,Apparel,300240.06,3.1
+2024-09-01,North America,Footwear,425021.41,3.5
+2024-05-01,South America,Apparel,471791.54,2.7
+2024-12-01,North America,Footwear,113553.59,4.3
+2024-12-01,Asia,Accessories,30342.12,1.9
+2024-05-01,Europe,Accessories,462081.3,4.6
+2024-05-01,South America,Apparel,139814.28,4.4
+2024-08-01,Europe,Footwear,461927.64,3.7
+2024-06-01,Asia,Footwear,294741.01,2.9
+2024-06-01,Europe,Apparel,201734.43,3.4
+2024-09-01,South America,Footwear,267667.69,4.4
+2024-05-01,Europe,Footwear,111588.42,4.4
+2024-12-01,South America,Apparel,143040.71,2.7
+2024-03-01,North America,Footwear,291719.98,1.4
+2024-10-01,North America,Accessories,361340.69,2.0
+2024-03-01,Asia,Apparel,163014.56,1.7
+2024-07-01,Europe,Accessories,196129.51,1.2
+2024-02-01,North America,Footwear,215783.46,3.0
+2024-04-01,Asia,Footwear,89756.73,1.7
+2024-07-01,South America,Footwear,144940.9,3.0
+2024-12-01,Europe,Accessories,167483.17,4.1
+2024-05-01,South America,Footwear,200847.05,4.7
+2024-12-01,North America,Accessories,400399.09,2.8
+2024-06-01,Europe,Apparel,411020.42,1.0
+2024-02-01,Europe,Accessories,286538.79,3.6
+2024-04-01,North America,Apparel,51418.73,2.1
+2024-01-01,Asia,Apparel,262118.87,3.2
+2024-02-01,South America,Apparel,298685.16,1.5
+2024-12-01,North America,Accessories,456489.96,2.4
+2024-11-01,North America,Footwear,425424.74,3.0
+2024-04-01,Europe,Apparel,424633.73,3.9
+2024-06-01,Asia,Apparel,285340.68,4.4
+2024-01-01,South America,Accessories,235486.88,1.5
+2024-12-01,Europe,Apparel,499511.58,1.1
+2024-04-01,South America,Footwear,258903.69,3.1
+2024-06-01,Asia,Apparel,455967.58,3.1
+2024-12-01,South America,Apparel,226239.29,1.3
+2024-01-01,South America,Footwear,144622.25,3.3
+2024-09-01,South America,Apparel,469223.92,2.0
+2024-08-01,Europe,Accessories,130023.04,3.6
+2024-04-01,Asia,Apparel,479352.17,4.4
+2024-06-01,Europe,Accessories,200546.3,3.3
+2024-09-01,North America,Accessories,35887.0,4.2
+2024-04-01,Asia,Footwear,476651.08,2.2
+2024-08-01,North America,Apparel,403176.69,3.9
+2024-01-01,Europe,Accessories,174450.22,1.3
+2024-05-01,Asia,Apparel,416113.04,2.8
+2024-09-01,Europe,Apparel,143198.77,1.5
+2024-04-01,South America,Accessories,474428.62,2.6
+2024-07-01,Asia,Accessories,488690.14,2.6
+2024-01-01,South America,Footwear,346138.3,4.3
+2024-12-01,South America,Apparel,61772.86,4.5
+2024-08-01,Asia,Footwear,91891.15,2.4
+2024-01-01,Europe,Accessories,414170.19,2.4
+2024-09-01,Asia,Footwear,389997.37,3.1
+2024-05-01,North America,Apparel,352823.22,2.4
+2024-10-01,South America,Apparel,405135.6,2.2
+2024-09-01,Asia,Accessories,487826.3,5.0
+2024-02-01,Europe,Apparel,492435.11,3.3
+2024-06-01,North America,Footwear,272127.88,1.2
+2024-05-01,Europe,Apparel,202697.09,1.0
+2024-05-01,North America,Accessories,415577.32,4.9
+2024-01-01,Europe,Accessories,332164.53,3.7
+2024-01-01,South America,Accessories,407223.77,3.9
+2024-10-01,South America,Apparel,255442.19,4.7
+2024-11-01,Europe,Accessories,45768.06,1.4
+2024-04-01,North America,Accessories,163266.08,2.8
+2024-01-01,Europe,Accessories,215918.52,4.0
+2024-06-01,Europe,Apparel,408661.23,1.7
+2024-12-01,Asia,Accessories,173372.37,2.6
+2024-09-01,North America,Accessories,183256.31,2.1
+2024-12-01,North America,Apparel,293800.61,3.9
+2024-08-01,North America,Footwear,379111.12,3.8
+2024-12-01,South America,Apparel,216988.3,3.9
+2024-11-01,Asia,Apparel,33306.6,4.4
+2024-02-01,South America,Apparel,481868.61,3.2
+2024-05-01,North America,Accessories,349223.27,2.4
+2024-11-01,Europe,Footwear,432938.77,3.4
+2024-12-01,North America,Accessories,50362.14,2.8
+2024-06-01,South America,Apparel,138692.38,4.5
+2024-07-01,North America,Apparel,207628.42,2.9
+2024-07-01,Europe,Apparel,12680.49,2.9
+2024-03-01,Europe,Apparel,234602.85,2.9
+2024-12-01,North America,Accessories,35239.45,3.5
+2024-03-01,South America,Apparel,479335.16,1.3
+2024-10-01,North America,Accessories,488191.79,4.9
+2024-08-01,Europe,Accessories,175884.75,4.8
+2024-08-01,South America,Accessories,174212.19,3.2
+2024-07-01,Europe,Accessories,400277.86,2.8
+2024-08-01,Asia,Footwear,131713.57,1.6
+2024-10-01,North America,Apparel,59641.63,3.9
+2024-01-01,North America,Footwear,27649.73,5.0
+2024-03-01,Europe,Accessories,463047.23,4.6
+2024-01-01,North America,Apparel,30365.73,2.9
+2024-02-01,North America,Footwear,431925.88,3.5
+2024-04-01,Asia,Accessories,398143.32,4.1
+2024-07-01,North America,Footwear,152001.81,4.5
+2024-01-01,South America,Apparel,89249.35,2.6
+2024-09-01,South America,Footwear,129116.92,2.9
+2024-10-01,Europe,Footwear,22947.97,3.4
+2024-09-01,North America,Footwear,83855.63,2.3
+2024-07-01,North America,Apparel,344706.94,3.4
+2024-04-01,Europe,Accessories,103562.67,4.6
+2024-07-01,Europe,Accessories,63061.27,4.8
+2024-03-01,Asia,Accessories,156891.07,2.2
+2024-05-01,North America,Footwear,319643.53,4.1
+2024-11-01,Asia,Footwear,445749.08,2.2
+2024-07-01,North America,Footwear,323346.23,3.7
+2024-05-01,South America,Footwear,281051.76,2.8
+2024-01-01,South America,Accessories,244192.14,2.3
+2024-05-01,North America,Accessories,109454.1,2.3
+2024-06-01,Europe,Accessories,247895.67,1.3
+2024-12-01,Asia,Accessories,209864.37,3.4
+2024-09-01,North America,Footwear,466734.49,4.5
+2024-03-01,South America,Accessories,16813.72,4.0
+2024-03-01,South America,Apparel,343554.19,4.4
+2024-11-01,Europe,Accessories,93498.87,4.8
+2024-09-01,North America,Apparel,162726.71,3.6
+2024-04-01,South America,Footwear,188916.67,1.7
+2024-03-01,Europe,Accessories,144616.8,1.6
+2024-06-01,Europe,Footwear,146548.15,2.1
+2024-09-01,North America,Accessories,53144.79,2.1
+2024-10-01,North America,Accessories,317599.11,2.7
+2024-04-01,South America,Accessories,497971.21,2.0
+2024-11-01,South America,Footwear,317428.7,3.7
+2024-07-01,North America,Footwear,385552.26,1.3
+2024-12-01,Europe,Accessories,191768.49,3.9
+2024-09-01,Europe,Accessories,307241.79,3.2
+2024-04-01,Europe,Apparel,28002.61,4.2
+2024-02-01,Europe,Apparel,226612.61,1.4
+2024-03-01,Asia,Footwear,325425.8,1.7
+2024-03-01,Europe,Footwear,20512.63,4.6
+2024-05-01,Asia,Apparel,338260.58,4.4
+2024-06-01,Asia,Footwear,25257.66,3.6
+2024-06-01,South America,Accessories,68899.38,1.1
+2024-05-01,Europe,Accessories,212862.68,2.6
+2024-12-01,South America,Footwear,345625.71,4.0
+2024-05-01,Europe,Accessories,435555.4,1.3
+2024-06-01,South America,Accessories,412762.8,4.8
+2024-09-01,North America,Apparel,382044.63,3.0
+2024-01-01,Europe,Footwear,221339.53,1.7
+2024-09-01,North America,Apparel,81761.31,2.1
+2024-06-01,South America,Footwear,313818.76,2.5
+2024-07-01,North America,Accessories,275207.41,1.3
+2024-08-01,Asia,Accessories,312744.94,1.3
+2024-08-01,Europe,Apparel,478515.85,1.8
+2024-12-01,North America,Accessories,496785.67,1.1
+2024-08-01,North America,Accessories,86945.55,3.1
+2024-01-01,North America,Accessories,367235.74,4.8
+2024-02-01,North America,Accessories,237544.82,2.8
+2024-08-01,South America,Accessories,184966.97,1.4
+2024-03-01,Europe,Footwear,294400.19,2.5
+2024-03-01,North America,Accessories,154713.47,2.1
+2024-07-01,Asia,Accessories,202955.04,2.4
+2024-02-01,South America,Apparel,95348.19,3.2
+2024-08-01,Europe,Accessories,270870.14,3.3
+2024-03-01,Asia,Accessories,105806.39,2.6
+2024-12-01,Europe,Footwear,262726.45,1.1
+2024-04-01,South America,Accessories,309567.52,2.0
+2024-04-01,North America,Apparel,410704.54,3.9
+2024-01-01,Asia,Apparel,81444.94,1.4
+2024-07-01,Asia,Footwear,356880.85,1.9
+2024-07-01,South America,Accessories,197698.63,1.4
+2024-10-01,South America,Accessories,307977.18,1.0
+2024-12-01,Europe,Accessories,257879.43,4.6
+2024-06-01,Asia,Apparel,362458.09,3.2
+2024-10-01,South America,Apparel,127008.11,4.6
+2024-10-01,North America,Footwear,251293.89,3.4
+2024-03-01,North America,Footwear,154798.71,1.1
+2024-02-01,South America,Apparel,164682.77,1.3
+2024-10-01,South America,Accessories,349297.26,3.1
+2024-12-01,South America,Accessories,132304.99,2.3
+2024-08-01,Europe,Footwear,428273.62,1.4
+2024-02-01,Asia,Footwear,48147.34,1.7
+2024-04-01,South America,Accessories,229572.74,3.5
+2024-01-01,Europe,Apparel,354637.7,2.2
+2024-11-01,Asia,Accessories,236892.6,2.5
+2024-03-01,South America,Accessories,51761.87,1.7
+2024-10-01,North America,Footwear,181570.14,2.7
+2024-12-01,North America,Apparel,411925.31,1.5
+2024-09-01,Asia,Footwear,21428.09,3.9
+2024-11-01,South America,Accessories,193344.01,5.0
+2024-11-01,Europe,Apparel,86039.84,2.2
+2024-11-01,North America,Apparel,171281.6,2.3
+2024-05-01,Asia,Apparel,237545.23,3.6
+2024-08-01,North America,Accessories,417481.14,5.0
+2024-01-01,South America,Footwear,467506.1,1.6
+2024-10-01,North America,Footwear,298475.38,2.3
+2024-05-01,South America,Footwear,378084.62,2.2
+2024-11-01,Asia,Apparel,491150.3,4.7
+2024-05-01,North America,Footwear,148097.95,3.2
+2024-06-01,Europe,Apparel,76105.69,1.8
+2024-01-01,Europe,Accessories,437618.35,4.1
+2024-02-01,Asia,Footwear,207149.92,2.6
+2024-02-01,Europe,Apparel,20794.53,3.3
+2024-10-01,Europe,Accessories,110566.98,4.2
+2024-02-01,Asia,Apparel,341101.0,1.9
